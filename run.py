@@ -36,7 +36,7 @@ class Ships:
     #Allowing the user to interact with the game through inputs
     def get_user_input(self):
         while True:
-            x_row = input("Please enter a row number: ")
+            x_row = input("Please enter a row number:\n ")
             if x_row.isdigit():
                 x_row = int(x_row)
                 if 1 <= x_row <= 10:
@@ -46,7 +46,7 @@ class Ships:
                 print("This statement is valid")
              
         while True:
-            y_column = input("Please enter a column letter: ").upper()
+            y_column = input("Please enter a column letter:\n ").upper()
             if y_column in "ABCDEFGHIJ" and len(y_column) == 1:
                 break
             print("Invalid input, try a letter between A and J")
