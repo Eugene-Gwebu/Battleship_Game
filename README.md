@@ -9,7 +9,7 @@ game as they will be able to play online against the computer, and have the same
 follows the same rules as the original, the user will play again the computer, they will each have 5 ships place randomly 
 on the grid and have 10 turns to destroy the other's fleet. 
 
-![]()
+![BATTLESHIP.png]()
 
 ## Features
 
@@ -18,8 +18,6 @@ on the grid and have 10 turns to destroy the other's fleet.
 * The rows are are labled from 1 to 10 for clarity and ease of use.
 * The columns are labeled A to J in order to give the ten by ten space, and are seperated by the pipe (|) symbol for readability.
   
-
-![]()  
 
 ## Gameplay  
 
@@ -31,11 +29,9 @@ on the grid and have 10 turns to destroy the other's fleet.
 * The player wins once all five battleships are sunk.
 * If the player has not sunk all the ships after ten tries they will lose. 
 
-![]()  
 
 ## Player Interaction 
-
-![]()  
+  
 
 * ### The Feedback  
 * At each turn the player will be informed about the outcome of the choices made in the game.
@@ -45,13 +41,11 @@ on the grid and have 10 turns to destroy the other's fleet.
 * When a player makes a successful hit, they will receive a message, and that area will be marked with an X.
 * When a ship is sunk, they will receive the message "You sank all 5 battleships!".
 
-![]()  
 
 ## Testing 
 
 * 
-
-![]()  
+  
 
 ## Credit
 
@@ -61,7 +55,9 @@ on the grid and have 10 turns to destroy the other's fleet.
 * I originally planned to allow the user to choose the grid size, but I wasn't able to figure out the right methods to make it work.
 * I used chatgpt to double check any syntax errors in my code, and to remove any unnecessary elements that were not useful in the code.
 * The majority of my project was done by following various YouTube tutorials and using them to get my desired outcome.
-* The main video I used came from the Knowledge Mavens YouTube [Channel](https://www.youtube.com/watch?v=alJH_c9t4zw&ab_channel=KnowledgeMavens), this video guided me through most of the methods and steps, but I changed the code to simplify it to what I understand. 
+* The main video I used came from the Knowledge Mavens YouTube [Channel](https://www.youtube.com/watch?v=alJH_c9t4zw&ab_channel=KnowledgeMavens), this video guided me through most of the methods and steps, but I changed the code to simplify it to what I understand.
+* Unfortunately I could not get the game to function. The window after deployment only displays an error message.
+* Further time is needed to understand the concepts of python and its logic. 
 
 
 
