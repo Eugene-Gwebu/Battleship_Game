@@ -44,7 +44,13 @@ on the grid and have 10 turns to destroy the other's fleet.
 
 ## Testing 
 
-* 
+![](PEP8.png)
+
+##Bugs
+* The code has a lot of bugs including indentation errors incorrectly written methods. 
+
+* ### Pep8
+* Testing through pep8 returned sixteen error messages, and so the code did not pass this test.
   
 
 ## Credit
