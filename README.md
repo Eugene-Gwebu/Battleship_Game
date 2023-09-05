@@ -9,7 +9,7 @@ game as they will be able to play online against the computer, and have the same
 follows the same rules as the original, the user will play again the computer, they will each have 5 ships place randomly 
 on the grid and have 10 turns to destroy the other's fleet. 
 
-![BATTLESHIP.png]()
+![](BATTLESHIP.png)
 
 ## Features
 
